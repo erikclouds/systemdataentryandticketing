@@ -1,3 +1,5 @@
+maaf, databasenya tidak saya share
+
 # Cara Penggunaan
 
 1. Download file dari GitHub
