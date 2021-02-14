@@ -1,0 +1,93 @@
+.kolomtext{
+    border: grey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    padding: 0 0 0 5px;
+    color: rgb(4, 22, 36);
+    font-size: 16px;
+    }
+
+
+.kolomtextarea{
+    border: grey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 60px;
+    width: 400px;
+    padding: 0 0 0 5px;
+    color: rgb(4, 22, 36);
+    resize:none;
+    font-size: 16px;
+    }
+
+.txtareapesan{
+    border: grey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 300px;
+    width: 600px;
+    padding: 0 0 0 5px;
+    color: rgb(4, 22, 36);
+    resize:none;
+    font-size: 16px;
+    }
+
+.pilihan{
+    border: grey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 200px;
+    padding: 0 0 0 5px;
+    color: rgb(4, 22, 36);
+    font-size: 16px;
+    }
+
+.tombolsimpan{
+    border: lightgrey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 60px;
+    padding: 5px 5px 5px 5px;
+    color: rgb(226, 243, 214);
+    background: green;
+    cursor:pointer;
+    }
+.tombolhapus{
+    border: lightgrey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 60px;
+    padding: 5px 5px 5px 5px;
+    color: rgb(243, 225, 214);
+    background: rgb(209, 4, 4);
+    cursor:pointer;
+    }
+.tombolcari{
+    border: lightgrey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 60px;
+    padding: 5px 5px 5px 5px;
+    color: rgb(214, 234, 243);
+    background: rgb(4, 110, 209);
+    cursor:pointer;
+    }
+.tombolexit{
+    border: lightgrey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 60px;
+    padding: 5px 5px 5px 5px;
+    color: whitesmoke;
+    background: green;
+    cursor:pointer;
+    }
+.tombolseat{
+    border: lightgrey solid 1px;
+    border-radius: 5px 5px 5px 5px;
+    height: 30px;
+    width: 60px;
+    padding: 5px 5px 5px 5px;
+    color: whitesmoke;
+    background: green;
+    cursor:pointer;
+    }
+
