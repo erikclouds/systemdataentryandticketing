@@ -1,0 +1,9 @@
+header{
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+body{
+    background-color: gainsboro;
+}
